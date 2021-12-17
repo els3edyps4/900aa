@@ -1,3 +1,3 @@
-crono_dreambox900auto
+900auto
 
-https://devcrono.github.io/crono_dreambox900auto/
+https://els3edyps4.github.io/900/
